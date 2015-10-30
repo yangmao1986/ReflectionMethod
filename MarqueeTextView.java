@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 
 public class MarqueeTextView extends TextView {
- //add  add    
+ //add  add more   
     private static final String TAG = "MarqueeTextView";
     private boolean isMarquee = false;
 
